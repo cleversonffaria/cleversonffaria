@@ -53,8 +53,7 @@
   
   <a href="https://expressjs.com" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  
+  </a>   
 
   <a href="https://www.figma.com/" target="_blank">
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
@@ -158,16 +157,12 @@
    
    <a href="https://www.adobe.com/products/xd.html" target="_blank">
    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a> </p>
-
-<p style="margin:10px">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleversonffaria&show_icons=true&theme=dracula&locale=en&layout=compact" alt="cleversonffaria" />
+  </a>
 </p>
 
-<p style="margin:10px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cleversonffaria&show_icons=true&theme=dracula&locale=en" alt="cleversonffaria" />
-</p>
+### Estatisticas do Github
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonffaria&show_icons=true&theme=dracula&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/cleversonffaria/github-readme-stats) ![Cleverson GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleversonffaria&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true)
 
-<p style="margin:10px">
+<p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&theme=dark" alt="cleversonffaria" />
 </p>
