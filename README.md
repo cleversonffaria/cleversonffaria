@@ -1,7 +1,9 @@
 <h1 align="center">Oi 👋 sou Cleverson Fernandes</h1>
 <h3 align="center">Busco evoluir exponencialmente em FrontEnd Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria" alt="cleversonffaria" /></a> </p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&theme=onedark" alt="cleversonffaria" /></a>
+</p>
 
 - 🔭 Atualmente estou trabalhando em [PeerBR](https://www.peerbr.com/)
 
