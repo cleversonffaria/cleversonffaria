@@ -160,14 +160,14 @@
    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
   </a> </p>
 
-<p>
+<p style="margin:10px">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cleversonffaria&show_icons=true&theme=dracula&locale=en&layout=compact" alt="cleversonffaria" />
 </p>
 
-<p>&nbsp;
+<p style="margin:10px">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=cleversonffaria&show_icons=true&theme=dracula&locale=en" alt="cleversonffaria" />
 </p>
 
-<p>
+<p style="margin:10px">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&theme=dark" alt="cleversonffaria" />
 </p>
