@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=620&lines=Cleverson+Fernandes+%7C+Frontend+Senior+Engineer;React+%7C+React+Native+%7C+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=620&lines=Cleverson+Fernandes;Frontend+Senior+Engineer;React+%7C+React+Native+%7C+Next.js" alt="Typing SVG" />
 
 <p>Desenvolvedor Frontend focado em React, React Native e Next.js.<br/>Construindo produtos escaláveis com TypeScript e boas práticas de arquitetura.</p>
 
