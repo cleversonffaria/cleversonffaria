@@ -1,157 +1,67 @@
-<h1 align="center">Oi 👋 sou Cleverson Fernandes</h1>
-<h3 align="center">Busco evoluir exponencialmente em FrontEnd Developer</h3>
+<div align="center">
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&theme=onedark" alt="cleversonffaria" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Oi+%F0%9F%91%8B+sou+Cleverson+Fernandes;Frontend+Engineer;React+%7C+React+Native+%7C+Next.js" alt="Typing SVG" />
 
-- 🔭 Atualmente estou trabalhando em [PeerBR](https://www.peerbr.com/)
+<p>Desenvolvedor Frontend focado em React, React Native e Next.js.<br/>Construindo produtos escaláveis com TypeScript e boas práticas de arquitetura.</p>
 
-- 🌱 Atualmente estou aprendendo **GSAP, Three.JS, CanvasJS**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cleverson-fernandes)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cleversonffaria)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cleversonffaria@gmail.com)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/cleversonffaria)
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/cleversonffaria](https://github.com/cleversonffaria)
+</div>
 
-- 💬 Pergunte-me sobre **React, GSAP, React Native, Typescript, Express**
+---
 
-- 📫 Como me encontrar **cleversonffaria@gmail.com**
+## Tech Stack
 
-- 📄 Conheça minhas experiências [https://nifty-bhabha-9a7f92.netlify.app](https://nifty-bhabha-9a7f92.netlify.app)
+**Frontend**
 
-<h3 align="left">Conecte-se comigo:
-</h3>
-<p align="left">
-<a href="https://codepen.io/cleversonffaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cleversonffaria" height="30" width="40" /></a>
-<a href="https://twitter.com/cleverson_faria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cleverson_faria" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/cleverson-fernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cleverson-fernandes" height="30" width="40" /></a>
-<a href="https://fb.com/cleversonnubihafaria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cleversonnubihafaria" height="30" width="40" /></a>
-</p>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-<h3 align="left">Idiomas e ferramentas:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  
-  <a href="https://canvasjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> 
-  </a>
-    
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  
-  <a href="https://www.docker.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  
-  <a href="https://expressjs.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a>   
+**Backend & Infra**
 
-  <a href="https://www.figma.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://firebase.google.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.framer.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://git-scm.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.w3.org/html/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://jestjs.io" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.mongodb.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a>
-      
-   <a href="https://www.mysql.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://nextjs.org/" target="_blank">
-   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://nodejs.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.photoshop.com/en" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.php.net" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.postgresql.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://postman.com" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.python.org" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://reactjs.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://reactnative.dev/" target="_blank">
-   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://sass-lang.com" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.sketch.com/" target="_blank">
-   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.typescriptlang.org/" target="_blank">
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://unrealengine.com/" target="_blank">
-   <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> 
-  </a>
-   
-   <a href="https://www.adobe.com/products/xd.html" target="_blank">
-   <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
-  </a>
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### Estatisticas do Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonffaria&show_icons=true&theme=dracula&layout=compact&custom_title=Linguagens%20mais%20utilizadas)](https://github.com/cleversonffaria/github-readme-stats) ![Cleverson GitHub Stats](https://github-readme-stats.vercel.app/api?username=cleversonffaria&show_icons=true&theme=dracula&hide_title=true&include_all_commits=true)
+**Ferramentas**
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&theme=dark" alt="cleversonffaria" />
-</p>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Framer](https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=cleversonffaria&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonffaria&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+</div>
