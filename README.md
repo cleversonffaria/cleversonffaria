@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&width=620&lines=Oi+%F0%9F%91%8B+sou+Cleverson+Fernandes;Frontend+Engineer;React+%7C+React+Native+%7C+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F5C518&center=true&vCenter=true&width=620&lines=Oi+%F0%9F%91%8B+sou+Cleverson+Fernandes;Frontend+Engineer;React+%7C+React+Native+%7C+Next.js" alt="Typing SVG" />
 
 <p>Desenvolvedor Frontend focado em React, React Native e Next.js.<br/>Construindo produtos escaláveis com TypeScript e boas práticas de arquitetura.</p>
 
@@ -47,13 +47,8 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonffaria&layout=compact&hide_border=true&bg_color=1d1e20&title_color=F5C518&text_color=ffffff&icon_color=F5C518" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&hide_border=true&background=1d1e20&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonffaria&layout=compact&hide_border=true&bg_color=1d1e20&title_color=F5C518&text_color=ffffff&icon_color=F5C518" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=cleversonffaria&hide_border=true&background=1d1e20&ring=F5C518&fire=F5C518&currStreakLabel=F5C518&sideLabels=ffffff&dates=aaaaaa&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -61,6 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&theme=tokyonight&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&no-frame=true&row=1&column=7&theme=flat&title_color=F5C518&margin-w=8" />
 
 </div>
