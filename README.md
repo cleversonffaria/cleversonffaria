@@ -56,6 +56,6 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&no-frame=true&row=1&column=7&theme=flat&title_color=F5C518&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=cleversonffaria&theme=onedark&no-frame=true&row=1&column=7" />
 
 </div>
